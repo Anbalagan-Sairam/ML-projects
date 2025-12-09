@@ -1,0 +1,982 @@
+[
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\useless.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\1\\Hobby smol.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Youtube"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\1\\Karma.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Spotify"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\10k\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\addictionn\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\bomeearyter\\Career.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Job Application"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\bomeearyter\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\bomeearyter\\Hobby.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Hobby"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\bomeearyter\\Relationship.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Relationship"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\bomeearyter\\Wealth.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Expenditure"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\chill\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\CONTAIN N CONTROL\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\DEATH\\Progression.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\desire\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\desire\\Relationship.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Relationship"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\FAILED\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\FAILED\\Hobby.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Video Gaming"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\fails\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\FUYCKINGSIUODFHUSIPHDUAIOSHDIAOUHSDIAUHSDIHAIDHA\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\HONKAIWQ\\Hobby.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "PC Gaming"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\I HAD ENOUGH IS ENOUGHHHH\\Health.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Sheet1"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\INDULGANCE\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\jinwu\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\jinwu\\Hobby.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "PC Gaming"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\kalpass\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\kalpass\\Relationship.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Relationship"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\kalpass\\Wealth.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Expenditure"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\LOOPED\\Progression.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\LOSER\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\mathematics\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\mathematics\\Hobby.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "PC Gaming"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\NAVY HERON\\Health.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Sheet1"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\OKOKOK I LEARNT\\Career.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Career"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\OKOKOK I LEARNT\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\OKOKOK I LEARNT\\Hobby.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Manga"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\OKOKOK I LEARNT\\Relationship.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Relationship"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\OKOKOK I LEARNT\\Wealth.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Expenditure"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\paradise lost\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\paradise lost\\Hobby.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "PC Gaming"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\paradise lost\\Wealth.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Expenditure"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\PATHETIC ADHD LOOSER DIE DIE DIE NO SELF CONTROL FREE WILL IS LIE\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\preserve\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\preserve\\Hobby.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Anime"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\preserve\\Relationship.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Relationship"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\preserve\\Wealth.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Expenditure"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\28.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Routine"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\Dopamine.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Dopamine"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\Mental Health.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Meditation"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\Routine.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Routine"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\Survive and Reproduce.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\Wealth.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Expenditure"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\the end of road\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\The FALL\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\The FALL\\Relationship.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Relationship"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\The FALL\\Wealth.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Expenditure"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\TIRED\\Sairam Anbalagan.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\TOO RICH\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\TOO RICH\\Relationship.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Sheet1"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\TOO RICH\\Wealth.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Expenditure"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\very important\\Sairam Anbalagan.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\wasteoftime\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\wasteoftime\\Hobby.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Mobile Gaming"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\wasteoftime\\Wealth.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Expenditure"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\wow gmaeee\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\wow gmaeee\\Hobby.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Mobile Gaming"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\wow gmaeee\\Wealth.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Expenditure"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\xdewakl\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\xx512\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\youtube clash royale hijack\\Health\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\yenkone\\Health\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\whathaveigotteninto\\Hobby\\Eve Online.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Eve Online"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\whathaveigotteninto\\Hobby\\Hobby.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "PC Gaming"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\TRASH\\Health\\Health.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Hygiene"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\TRASH\\Relationship\\Relationship.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Relationship"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\this is wayyy failure\\Y0\\Hobby.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Manga"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\this is wayyy failure\\Y1Q1\\Expenditure.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Expenditure"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\this is wayyy failure\\Y1Q1\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\this is wayyy failure\\Y1Q1\\Hobby.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Mobile Gaming"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\THIS IS FINAL FAILURE\\Career\\Career.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Job Application"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\THIS IS FINAL FAILURE\\Health\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\THIS IS END\\Health\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\THE CYCLE CONTINOUES\\Health\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\THE CYCLE CONTINOUES\\Relationship\\Relationship.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Relationship"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\THE CYCLE CONTINOUES\\Wealth\\Wealth.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Expenditure"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\tenrifis\\Hobby\\Hobby.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "PC Gaming"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Tamilakam\\Health\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Tamilakam\\Mental Health\\Mental Health.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Addiction"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\systemmmm\\Hobby\\Hobby.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "TV Series"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\slaverry\\Health\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\slaverry\\Relationship\\Relationship.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Relationship"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\setback\\Career\\Career.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Job Application"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\setback\\Health\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\setback\\Mental Health\\Mental Health.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Wirehead"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\setback\\Relationship\\Relationship.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Relationship"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\setback\\Wealth\\Wealth.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Expenditure"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\samayal\\Health\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\3 crores\\Routine.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\ALIENZZZ\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\Career focused\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\Career focused\\Hobby.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Comics"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\dolun\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\dolun\\Hobby.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Movies"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\DOOMED TO FAIL\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\DOOMED TO FAIL\\Hobby.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Anime"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\DOPAMINE SLAVE\\Routine.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\eren yaeagerwoken\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\eren yaeagerwoken\\Hobby.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Movie"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\eren yaeagerwoken\\Relationship.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Relationship"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\eren yaeagerwoken\\Wealth.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Expenditure"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\Game\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\I hate hollywood\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\I hate hollywood\\Wealth.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Wealth"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\Monkey mode\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\Monkey mode\\Hobby.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "TV Series"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\PERFECT ALIEN\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\PERFECT ALIEN\\Hobby.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Comics"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\Project Freedom\\Routine.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\The fall\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\The fall\\Wealth.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Expenditure"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\Video Game\\Happiness.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Sex"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\Video Game\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\Video Game\\Relationship.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Relationship"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\yugana yogi\\Hobby\\Eve Online.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Eve Online"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\yugana yogi\\Hobby\\Hobby.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Mobile Gaming"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\yugana yogi\\Hobby\\Honkai Star Rail.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Resource"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\WAR\\Q3FY25\\Health\\Health.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Routine"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\thts the thing\\Hobby\\Hobby.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Movie"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\THE SECRET\\Hobby\\Hobby.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Movie"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\The fall\\Hobby\\Eve Online.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Resource"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\The fall\\Hobby\\Hobby.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Manga"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\snow white\\Hobby\\Hobby.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Movie"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\nu\\Hobby\\Hobby.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Mobile Gaming"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\I hate hollywood\\Hobby\\Hobby.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Movie"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\ENUF IS ENUF\\Hobby\\Hobby.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Movie"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\CRY OF FALL\\Hobby\\Hobby.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Comic"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\ALIENZZZ\\Hobby\\Entertainment.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Comic"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\ALIENZZZ\\Hobby\\Hobby.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Comics"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\ALIENZZZ\\Hobby\\Sex.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Sex"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\20th june\\Health\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\20th june\\Hobby\\Hobby.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Anime"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Sairam Anbalagan\\20th june\\Wealth\\Wealth.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Expenditure"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\PROMISE\\Health\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\PROMISE\\Mental Health\\Mental Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Mental Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\PROMISE\\Relationship\\Relationship.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Relationship"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\predictiveee\\Dopamine\\Dopamine.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Dopamine"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\predictiveee\\Health\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\NEVER AGAIN\\Career\\Career.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Study"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\NEVER AGAIN\\Health\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\NEVER AGAIN\\Relationship\\Relationship.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Relationship"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\NEVER AGAIN\\Wealth\\Wealth.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Expenditure"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\NAVY HERON\\Hobby\\Hobby.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Mobile Gaming"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\munki\\Hobby\\Hobby.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Movie"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\movie launch\\Health\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\movie launch\\Health\\Mental Health.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Addiction"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\Momento Mori\\Health\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\MASTERCALLS NI FAILURE\\Health\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\LOSER\\Hobby\\Eve Online.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Progression"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\LAST FAILURE\\Health\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\LAST FAILURE\\Mental Health\\Mental Health.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Sex"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\I HAD ENOUGH IS ENOUGHHHH\\Hobby\\Hobby.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Comic"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\I AM DEAD\\Health\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\finetune\\Health\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\finetune\\Hobby\\Hobby.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "PC Gaming"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\finetune\\Relationship\\Relationship.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Relationship"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\finetune\\Wealth\\Wealth.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Expenditure"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\FINAL DEFEAT\\Hobby\\Hobby.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "PC Gaming"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\FINAL DEFEAT\\Hobby\\Honkai Star Rail.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Honkai Star Rail"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\fakeeeye\\Career\\Job Application.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Job Application"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\fakeeeye\\Health\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\FAILURE\\Career\\Career.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Job Application"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\FAILURE\\Health\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\FAILURE\\Relationship\\Relationship.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Relationship"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\FAILURE\\Health\\Mental Health\\Mental Health.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Sex"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\FAILED\\Health\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\FAILED\\Health\\Mental Health.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Dopamine"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\end of ERA\\Health\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\end of ERA\\Wealth\\Wealth.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Expenditure"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\destiny\\Career\\Career.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Career"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\destiny\\Health\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\destiny\\Mental Health\\Mental Health.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Dopamine"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\death of self\\Health\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\DEATH BY DOPAMINE\\Career\\Career.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Career"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\DEATH BY DOPAMINE\\Health\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\DEATH BY DOPAMINE\\Relationship\\Relationship.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Relationship"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\DEATH BY DOPAMINE\\Wealth\\Wealth.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Expenditure"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\DEAD\\Health\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\DEAD\\Wealth\\Wealth.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Expenditure"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\CONTAIN N CONTROL\\Hobby\\Hobby.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "PC Gaming"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\close eyes\\Health\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\A   D HD\\Health\\Health.xlsx",
+    "reason": "sheet name contains health",
+    "sheet": "Health"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\1\\all in 1\\Social Media.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Youtube"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\1\\Hobby\\Cartoon.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Sheet1"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\1\\Hobby\\Spotify.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Spotify"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\1\\Hobby\\Stimulation.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Spotify"
+  },
+  {
+    "path": "C:\\Users\\anbal\\Downloads\\1\\Hobby\\Video Gaming.xlsx",
+    "reason": "sheet header matched expected columns",
+    "sheet": "Video Gaming"
+  }
+]
