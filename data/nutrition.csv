@@ -1,0 +1,311 @@
+Day,Month,Year,Weight,Nutrition,Exercise
+8.0,12.0,2025.0,,,
+6.0,12.0,2025.0,,,
+6.0,12.0,2025.0,,,
+28.0,11.0,2025.0,,,
+27.0,11.0,2025.0,,,
+27.0,11.0,2025.0,129.6,Electrolyte Drink,
+26.0,11.0,2025.0,129.6,2 Electrolyte Drink,60 Bicep Curls
+26.0,11.0,2025.0,,,
+25.0,11.0,2025.0,,,60 Kettle Twists
+25.0,11.0,2025.0,,Electrolyte Drink,20 Lateral Raises
+25.0,11.0,2025.0,,,
+24.0,11.0,2025.0,128.2,3 Electrolyte Drink,60 Bicep Curls
+24.0,11.0,2025.0,,,
+22.0,11.0,2025.0,,,
+22.0,11.0,2025.0,126.4,2 Electrolyte Drink,60 Bicep Curls
+19.0,11.0,2025.0,,,
+19.0,11.0,2025.0,,Electrolyte Drink,
+14.0,11.0,2025.0,,,
+14.0,11.0,2025.0,,,
+14.0,11.0,2025.0,133.2,2 Electrolyte Drink,120 Bicep Curls
+14.0,11.0,2025.0,,,
+13.0,11.0,2025.0,,,
+13.0,11.0,2025.0,,Spinach,60 Bicep Curls
+9.0,11.0,2025.0,130.8,2 Electrolyte Drink,60 Bicep Curls
+8.0,11.0,2025.0,128.6,2 Electrolyte Drink,60 Bicep Curls
+7.0,11.0,2025.0,,,
+7.0,11.0,2025.0,,,
+7.0,11.0,2025.0,,,
+7.0,11.0,2025.0,,,
+7.0,11.0,2025.0,,,
+7.0,11.0,2025.0,,,
+7.0,11.0,2025.0,,,
+5.0,11.0,2025.0,,Electrolyte Drink,120 Bicep Curls
+5.0,11.0,2025.0,131.2,Electrolyte Drink,120 Bicep Curls
+3.0,11.0,2025.0,,Electrolyte Drink,
+2.0,11.0,2025.0,130.6,Electrolyte Drink,
+2.0,11.0,2025.0,,,
+1.0,11.0,2025.0,,,
+1.0,11.0,2025.0,130,,120 Bicep Curls
+31.0,10.0,2025.0,,,
+31.0,10.0,2025.0,128.2,2 Electrolyte Drink,60 Bicep Curls
+30.0,10.0,2025.0,129.8,Electrolyte Drink,
+28.0,10.0,2025.0,,,
+28.0,10.0,2025.0,,,
+28.0,10.0,2025.0,,Electrolyte Drink,
+27.0,10.0,2025.0,128.6,Electrolyte Drink,120 Bicep Curls
+26.0,10.0,2025.0,129.2,2 Electrolyte Drink,60 Bicep Curls
+26.0,10.0,2025.0,,,
+26.0,10.0,2025.0,,,
+26.0,10.0,2025.0,,,
+26.0,10.0,2025.0,,,
+24.0,10.0,2025.0,128.8,Electrolyte Drink,120 Bicep Curls
+23.0,10.0,2025.0,130.4,3 Electrolyte Drink,120 Bicep Curls
+22.0,10.0,2025.0,,,
+20.0,10.0,2025.0,,,
+20.0,10.0,2025.0,129.2,,60 Bicep Curls
+19.0,10.0,2025.0,,,
+19.0,10.0,2025.0,,,
+19.0,10.0,2025.0,,,
+19.0,10.0,2025.0,,,
+19.0,10.0,2025.0,,,
+19.0,10.0,2025.0,,,
+19.0,10.0,2025.0,,,
+19.0,10.0,2025.0,129.4,,60 Bicep Curls
+19.0,10.0,2025.0,,,
+19.0,10.0,2025.0,,,
+19.0,10.0,2025.0,,,
+18.0,10.0,2025.0,129.4,Electrolyte Drink,
+17.0,10.0,2025.0,129,Electrolyte Drink,
+14.0,10.0,2025.0,127.2,2 Electrolyte Drink,60 Bicep Curls
+14.0,10.0,2025.0,,,
+14.0,10.0,2025.0,,,
+12.0,10.0,2025.0,128.8,Electrolyte Drink,60 Bicep Curls
+10.0,10.0,2025.0,127.4,Electrolyte Drink,60 Bicep Curls
+9.0,10.0,2025.0,128.6,3 Electrolyte Drink,60 Bicep Curls
+8.0,10.0,2025.0,133.2,2 Electrolyte Drink,60 Bicep Curls
+5.0,10.0,2025.0,129.4,Black Coffee,60 Bicep Curls
+3.0,10.0,2025.0,,,
+3.0,10.0,2025.0,129.6,3 Electrolyte Drink,60 Bicep Curls
+3.0,10.0,2025.0,,,
+3.0,10.0,2025.0,,,
+1.0,10.0,2025.0,,,
+1.0,10.0,2025.0,127.2,Electrolyte Drink,60 Bicep Curls
+1.0,10.0,2025.0,,,
+1.0,10.0,2025.0,,,
+29.0,9.0,2025.0,,,
+29.0,9.0,2025.0,,,
+27.0,9.0,2025.0,,,
+27.0,9.0,2025.0,129.2,Electrolyte Drink,60 Bicep Curls
+25.0,9.0,2025.0,128.6,2 Electrolyte Drink,60 Bicep Curls
+24.0,9.0,2025.0,128.8,,100 Bicep Curls
+21.0,9.0,2025.0,,Electrolyte Drink,60
+17.0,9.0,2025.0,130.6,2 Black Coffee,60 Bicep Curls
+17.0,9.0,2025.0,,,
+17.0,9.0,2025.0,,,
+10.0,9.0,2025.0,128.2,2 Electrolyte Drink,60 Bicep Curls
+9.0,9.0,2025.0,,Cod Liver Oil,60 Bicep Curls
+8.0,9.0,2025.0,128.4,Electrolyte Drink,60 Bicep Curls
+7.0,9.0,2025.0,130,2 Black Coffee,60 Bicep Curls
+6.0,9.0,2025.0,131,2 Black Coffee,60 Bicep Curls
+5.0,9.0,2025.0,131.6,2 Black Coffee,60 Bicep Curls
+5.0,9.0,2025.0,,,
+4.0,9.0,2025.0,,,
+4.0,9.0,2025.0,,,
+4.0,9.0,2025.0,128.6,2 Black Coffee,60 Bicep Curls
+3.0,9.0,2025.0,,,
+3.0,9.0,2025.0,130,2 Black Coffee,60 Bicep Curls
+2.0,9.0,2025.0,,,
+2.0,9.0,2025.0,131.2,2 Black Coffee,60 Bicep Curls
+1.0,9.0,2025.0,,,
+1.0,9.0,2025.0,,,
+1.0,9.0,2025.0,,,
+1.0,9.0,2025.0,132,2 Black Coffee,60 Bicep Curls
+1.0,9.0,2025.0,,,
+31.0,8.0,2025.0,131,Electrolyte Drink,100 Bicep Curls
+30.0,8.0,2025.0,130.6,Electrolyte Drink,100 Bicep Curls
+30.0,8.0,2025.0,,,
+30.0,8.0,2025.0,,,
+30.0,8.0,2025.0,,,
+29.0,8.0,2025.0,,Electrolyte Drink,100 Bicep Curls
+29.0,8.0,2025.0,,,
+28.0,8.0,2025.0,128.6,Electrolyte Drink,100 Bicep Curls
+27.0,8.0,2025.0,129,Black Coffee,100 Bicep Curls
+26.0,8.0,2025.0,130,3 Black Coffee,100 Bicep Curls
+26.0,8.0,2025.0,,,
+26.0,8.0,2025.0,,,
+25.0,8.0,2025.0,,,
+25.0,8.0,2025.0,131,Black Coffee,100 Bicep Curls
+25.0,8.0,2025.0,,,
+25.0,8.0,2025.0,,,
+25.0,8.0,2025.0,,,
+24.0,8.0,2025.0,129.6,Black Coffee,100 Bicep Curls
+22.0,8.0,2025.0,,,
+22.0,8.0,2025.0,129.2,2 Black Coffee,100 Bicep Curls
+21.0,8.0,2025.0,,,
+21.0,8.0,2025.0,132.6,2 Black Coffee,100 Bicep Curls
+19.0,8.0,2025.0,129.8,2 Electrolyte Drink,100 Bicep Curls
+12.0,8.0,2025.0,,,
+11.0,8.0,2025.0,,,
+10.0,8.0,2025.0,129.2,Electrolyte Drink,100 Bicep Curls
+10.0,8.0,2025.0,,,
+8.0,8.0,2025.0,129.4,2 Electrolyte Drink,
+7.0,8.0,2025.0,,,
+7.0,8.0,2025.0,,,
+7.0,8.0,2025.0,,,
+7.0,8.0,2025.0,,Keto Crunch,100 Bicep Curls
+5.0,8.0,2025.0,,,
+5.0,8.0,2025.0,128.6,4L water,100 Bicep Curls
+4.0,8.0,2025.0,,,
+3.0,8.0,2025.0,129.8,4L water,
+2.0,8.0,2025.0,,,
+1.0,8.0,2025.0,131,Electrolyte Drink,100 Bicep Curls
+1.0,8.0,2025.0,,,
+30.0,7.0,2025.0,,,100 Bicep Curls
+29.0,7.0,2025.0,,,
+29.0,7.0,2025.0,,,
+29.0,7.0,2025.0,130.4,4L water,100 Bicep Curls
+27.0,7.0,2025.0,,,
+27.0,7.0,2025.0,,,
+27.0,7.0,2025.0,130.8,8L water,100 Bicep Curls
+26.0,7.0,2025.0,,,
+26.0,7.0,2025.0,129.6,4L water,100 Bicep Curls
+26.0,7.0,2025.0,,,
+25.0,7.0,2025.0,,,
+25.0,7.0,2025.0,,,
+25.0,7.0,2025.0,,,
+25.0,7.0,2025.0,131,12L water,100 Bicep Curls
+24.0,7.0,2025.0,,,
+23.0,7.0,2025.0,,,
+23.0,7.0,2025.0,,,
+23.0,7.0,2025.0,131.2,Black Coffeee,100 Bicep Curls
+22.0,7.0,2025.0,,,
+22.0,7.0,2025.0,,,
+22.0,7.0,2025.0,,,
+22.0,7.0,2025.0,130,2 Black Coffee,100 Bicep Curls
+22.0,7.0,2025.0,,,
+22.0,7.0,2025.0,,,
+21.0,7.0,2025.0,,,
+21.0,7.0,2025.0,,,
+20.0,7.0,2025.0,132,8L water,100 Bicep Curls
+20.0,7.0,2025.0,,,
+20.0,7.0,2025.0,,,
+20.0,7.0,2025.0,,,
+19.0,7.0,2025.0,131,6L water,100 Bicep Curls
+19.0,7.0,2025.0,,,
+18.0,7.0,2025.0,,,
+18.0,7.0,2025.0,131.4,10L water,100 Bicep Curls
+17.0,7.0,2025.0,,,
+17.0,7.0,2025.0,132.2,8L water,60 Bicep Curls
+16.0,7.0,2025.0,131.6,8L water,100 Bicep Curls
+16.0,7.0,2025.0,,,
+15.0,7.0,2025.0,,,
+15.0,7.0,2025.0,133,2 Black Coffee,60 Bicep Curls
+14.0,7.0,2025.0,,,
+14.0,7.0,2025.0,,,
+14.0,7.0,2025.0,132.8,4L water,100 Bicep Curls
+13.0,7.0,2025.0,,,
+13.0,7.0,2025.0,,,
+13.0,7.0,2025.0,,,
+13.0,7.0,2025.0,134.4,2 Black Coffee,60 Bicep Curls
+13.0,7.0,2025.0,,,
+13.0,7.0,2025.0,,,
+12.0,7.0,2025.0,,,
+11.0,7.0,2025.0,,,
+11.0,7.0,2025.0,,,
+11.0,7.0,2025.0,,,
+11.0,7.0,2025.0,,,
+11.0,7.0,2025.0,133.2,8L water,80 Bicep Curls
+10.0,7.0,2025.0,,,
+10.0,7.0,2025.0,133.8,8L water,120 Bicep Curls
+10.0,7.0,2025.0,,,
+9.0,7.0,2025.0,,,
+9.0,7.0,2025.0,134,8L water,100 Bicep Curls
+9.0,7.0,2025.0,,,
+8.0,7.0,2025.0,,,
+8.0,7.0,2025.0,133.4,Cod Liver Oil,60 Bicep Curls
+7.0,7.0,2025.0,132.6,Black Coffee,100 Bicep Curls
+6.0,7.0,2025.0,,,
+6.0,7.0,2025.0,135,Black Coffee,60 Bicep Curls
+5.0,7.0,2025.0,135,2 Black Coffee,60 Bicep Curls
+5.0,7.0,2025.0,,,
+5.0,7.0,2025.0,,,
+4.0,7.0,2025.0,136.2,,60 Bicep Curls
+3.0,7.0,2025.0,134.2,Black Coffee,
+2.0,7.0,2025.0,134.2,4L water,60 Bicep Curls
+2.0,7.0,2025.0,,,
+1.0,7.0,2025.0,135.2,8L water,100 Bicep Curls
+30.0,6.0,2025.0,135.6,Black Coffee,80 Bicep Curls
+29.0,6.0,2025.0,135,4L water,60 Bicep Curls
+28.0,6.0,2025.0,137,,60 Bicep Curls
+27.0,6.0,2025.0,137,,60 Bicep Curls
+26.0,6.0,2025.0,136.4,,60 Bicep Curls
+25.0,6.0,2025.0,136.6,,60 Bicep Curls
+24.0,6.0,2025.0,139.2,,60 Bicep Curls
+23.0,6.0,2025.0,137.4,,60 Bicep Curls
+22.0,6.0,2025.0,138.6,,60 Bicep Curls
+21.0,6.0,2025.0,140.6,2 Black Coffee,60 Bicep Curls
+20.0,6.0,2025.0,138.6,Black Coffee,60 Bicep Curls
+19.0,6.0,2025.0,140,2 Black Coffee,60 Bicep Curls
+18.0,6.0,2025.0,139.6,Black Coffee,60 Bicep Curls
+17.0,6.0,2025.0,139.8,2 Black Coffee,60 Bicep Curls
+16.0,6.0,2025.0,140,Black Coffee,100 Bicep Curls
+15.0,6.0,2025.0,140.6,2 Black Coffee,60 Bicep Curls
+14.0,6.0,2025.0,140.2,2 Black Coffee,100 Bicep Curls
+13.0,6.0,2025.0,141.8,Black Coffee,60 Bicep Curls
+12.0,6.0,2025.0,142,2 Black Coffee,60 Bicep Curls
+11.0,6.0,2025.0,142.8,2 Black Coffee,80 Bicep Curls
+10.0,6.0,2025.0,143.4,Black Coffee,60 Bicep Curls
+9.0,6.0,2025.0,143.6,Black Coffee,100 Bicep Curls
+8.0,6.0,2025.0,142.8,2 Black Coffee,60 Bicep Curls
+7.0,6.0,2025.0,144,Black Coffee,100 Bicep Curls
+7.0,6.0,2025.0,,,
+7.0,6.0,2025.0,,,
+6.0,6.0,2025.0,143.4,Black Coffee,60 Bicep Curls
+5.0,6.0,2025.0,142.2,2 Black Coffee,60 Bicep Curls
+4.0,6.0,2025.0,144.2,Black Coffee,100 Bicep Curls
+4.0,6.0,2025.0,,,
+4.0,6.0,2025.0,,,
+3.0,6.0,2025.0,,,
+3.0,6.0,2025.0,143.6,2 Black Coffee,60 Bicep Curls
+2.0,6.0,2025.0,,,
+2.0,6.0,2025.0,,,
+2.0,6.0,2025.0,,,
+2.0,6.0,2025.0,145,2 Black Coffee,100 Bicep Curls
+1.0,6.0,2025.0,,,
+1.0,6.0,2025.0,,,
+1.0,6.0,2025.0,143.8,Black Coffee,60 Bicep Curls
+31.0,5.0,2025.0,,,
+31.0,5.0,2025.0,144.2,2 Black Coffee,60 Bicep Curls
+31.0,5.0,2025.0,,,
+30.0,5.0,2025.0,,,
+30.0,5.0,2025.0,146,2 Black Coffee,60 Bicep Curls
+29.0,5.0,2025.0,146.2,Black Coffee,60 Bicep Curls
+28.0,5.0,2025.0,147.2,Black Coffee,100 Bicep Curls
+27.0,5.0,2025.0,146.2,2 Coffee,100 Bicep Curls
+26.0,5.0,2025.0,146.8,2 Coffee,100 Bicep Curls
+25.0,5.0,2025.0,147.2,Coffee,120 Bicep Curls
+24.0,5.0,2025.0,146.6,Bulletproof Coffee,100 Bicep Curls
+23.0,5.0,2025.0,148.2,2 Coffee,60 Bicep Curls
+22.0,5.0,2025.0,147.6,Coffee,60 Bicep Curls
+21.0,5.0,2025.0,147.8,Bulletproof Coffee,60 Bicep Curls
+20.0,5.0,2025.0,149.8,Black Coffee,60 Bicep Curls
+19.0,5.0,2025.0,,,
+19.0,5.0,2025.0,148.4,Bulletproof Coffee,80 Bicep Curls
+18.0,5.0,2025.0,148.8,Bistro Salad,60 Bicep Curls
+17.0,5.0,2025.0,149.2,Electrolyte Drink,60 Bicep Curls
+16.0,5.0,2025.0,,,
+16.0,5.0,2025.0,,,
+16.0,5.0,2025.0,150,Black Coffee,80 Bicep Curls
+16.0,5.0,2025.0,,,
+15.0,5.0,2025.0,,,
+15.0,5.0,2025.0,149.4,Black Coffee,100 Bicep Curls
+14.0,5.0,2025.0,150.4,Electrolyte Drink,100 Bicep Curls
+14.0,5.0,2025.0,,,
+13.0,5.0,2025.0,150.4,Black Coffee,100 Bicep Curls
+13.0,5.0,2025.0,,,
+12.0,5.0,2025.0,,,
+12.0,5.0,2025.0,150.8,Black Coffee,60 Bicep Curls
+11.0,5.0,2025.0,,,
+11.0,5.0,2025.0,151.4,Bulletproof Coffee,60 Bicep Curls
+10.0,5.0,2025.0,151.6,2x Black Coffee,60 Bicep Curls
+10.0,5.0,2025.0,,,
+9.0,5.0,2025.0,150.6,Black Coffee,60 Bicep Curls
+8.0,5.0,2025.0,151.4,Black Coffee,60 Bicep Curls
+7.0,5.0,2025.0,152.8,Black Coffee,60 Bicep Curls
+6.0,5.0,2025.0,151.2,Black Coffee,60 Shoulder Press
+5.0,5.0,2025.0,152.2,Black Coffee,60 Shoulder Press
+4.0,5.0,2025.0,153.4,Black Coffee,60 Bicep Curls
+3.0,5.0,2025.0,158,Black Coffee,60 Bicep Curls
+3.0,1.0,2025.0,,,
